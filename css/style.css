@@ -1,0 +1,107 @@
+/* header */
+body{
+    background-color: #F6F8F9;
+}
+.header{
+    display: inline-block;
+    padding: 21px 20px 21px 21px;
+    height: 50px;
+}
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    position: fixed;
+    width: 32px;
+    height: 11px;
+}
+.navigation{
+    display: inline-block;
+    vertical-align: middle; 
+    position: fixed;
+    right: 20px;
+    top: 10px;
+    bottom: 10px;
+}
+.nav-li{
+    display: inline-block;
+    vertical-align: middle;
+    text-transform: uppercase;
+    padding-left: 28px;
+    color: #43646f;
+    font-size: 11px;
+}
+.home{
+    color: black;
+    font-weight: bold;
+}
+.nav-photo{
+    display: inline-block;
+    vertical-align: middle;
+
+}
+/* section-top block */
+.top-block{
+    margin: 24px 0 57px 140px;
+}
+.section-one{
+    display: inline-block;
+    width: 360px;
+    height: 340px;
+    background-color: white;
+    margin-right: 40px;
+}
+.top-picture{
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    width: 360px;
+    height: 180px;
+}
+.text-picture{
+    display: inline-block;
+    position: absolute;
+    left: 41px;
+    top: 27px;
+    bottom: 137px;
+    right: 174px;
+    color: white;
+}
+.under-text{
+    display: inline-block;
+    color: #A6ADB4;
+    width: 240px;
+    height: 36px;
+    margin: 75px 80px 60px 40px;
+}
+h3{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 42px;
+}
+/* section two */
+.section-two{
+    margin: 0 0 234px 140px;
+    display: inline-block;
+    vertical-align:middle;
+}
+.big-pictures{
+    display: inline-block;
+    width: 760px;
+    height: 430px;
+    margin-bottom: 40px;
+}
+.small-pictures{
+    display: inline-block;
+    width: 360px;
+    height: 210px;
+    margin-bottom: 120px;
+}
+.block-one, .block-two{
+    display: inline-block;
+    vertical-align:middle;
+}
+.block-one{
+   margin-right: 40px;
+}
+
+
